@@ -1,6 +1,7 @@
 {
-  "name": "Metro Rush",
-  "short_name": "MetroRush",
+  "name": "Turbo Rush",
+  "short_name": "TurboRush",
+  "description": "Turbo Rush is an exciting endless runner game where you dodge obstacles, collect coins, and run as far as possible in a fast-paced city environment.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
@@ -8,5 +9,9 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icons/icon-72.png",
-      "
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
